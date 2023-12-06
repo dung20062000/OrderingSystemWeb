@@ -30,5 +30,12 @@ namespace EcommerceAPI.Data
         //        .WithMany(c => c.MenuCategoryItems)
         //        .HasForeignKey(mc => mc.CategoryId);
         //}
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<MenuItem>()
+                .Property(m => m.Discount)
+                .HasColumnType("decimal(18,2)"); // Thay thế "18,2" bằng precision và scale mong muốn
+        }
+
     }
 }

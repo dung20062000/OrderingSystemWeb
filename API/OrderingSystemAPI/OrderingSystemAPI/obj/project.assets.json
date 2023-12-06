@@ -3921,19 +3921,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dungb\\.nuget\\packages\\": {}
+    "C:\\Users\\AD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HOC_CShaps\\OrderingSystemWeb\\API\\OrderingSystemAPI\\OrderingSystemAPI\\OrderingSystemAPI.csproj",
+      "projectUniqueName": "E:\\Code\\ASP.NET Tutorial\\OrderingSystemWeb\\API\\OrderingSystemAPI\\OrderingSystemAPI\\OrderingSystemAPI.csproj",
       "projectName": "OrderingSystemAPI",
-      "projectPath": "D:\\HOC_CShaps\\OrderingSystemWeb\\API\\OrderingSystemAPI\\OrderingSystemAPI\\OrderingSystemAPI.csproj",
-      "packagesPath": "C:\\Users\\dungb\\.nuget\\packages\\",
-      "outputPath": "D:\\HOC_CShaps\\OrderingSystemWeb\\API\\OrderingSystemAPI\\OrderingSystemAPI\\obj\\",
+      "projectPath": "E:\\Code\\ASP.NET Tutorial\\OrderingSystemWeb\\API\\OrderingSystemAPI\\OrderingSystemAPI\\OrderingSystemAPI.csproj",
+      "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
+      "outputPath": "E:\\Code\\ASP.NET Tutorial\\OrderingSystemWeb\\API\\OrderingSystemAPI\\OrderingSystemAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dungb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3941,7 +3941,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4008,7 +4007,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
